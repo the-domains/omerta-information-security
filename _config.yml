@@ -2,6 +2,7 @@ name: Omerta Information Security
 favicon: null
 layout_spectrum: 0.3377
 typography_spectrum: 0.9977222031448036
+title: 'All about Infosec from Rotterdam, The Netherlands'
 cta:
   domain: null
   bucket: null
