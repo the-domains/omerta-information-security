@@ -1,6 +1,6 @@
 name: Omerta Information Security
 favicon: null
-layout_spectrum: 0.3822547267191112
+layout_spectrum: 0.3377
 typography_spectrum: 0.9977222031448036
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.2829918824136257
-  lightness: 0.3453641978558153
-  saturation: 0.6991618792526424
+    - '#7f7f7f'
+    - '#000000'
+    - '#2c2c2c'
+    - '#555555'
+    - '#dbd5c5'
+  brandStrength: 0.25
+  lightness: 0.4375
+  saturation: 0.75
   rhythmicContrast: 0.8052211916074157
 purpose: []
