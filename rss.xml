@@ -4,18 +4,11 @@
         <description><![CDATA[All about Infosec from Rotterdam, The Netherlands]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 17:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 17:30:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://tweakers.net/nieuws/106743/cbp-publiceert-definitieve-beleidsregels-meldplicht-datalekken.html</p>]]></description>
-            <link>https://thegrid.ai/omerta-information-security/3a99b418-d834-4b01-a9ba-04fa78ea6dfb/index.html</link>
-            <guid isPermaLink="false">3a99b418-d834-4b01-a9ba-04fa78ea6dfb</guid>
-            <pubDate>Thu, 10 Dec 2015 17:23:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What 2016 Has in Store for Cybersecurity Firms]]></title>
-            <description><![CDATA[<article><h1>What 2016 Has in Store for Cybersecurity Firms</h1><p>Cybersecurity has become an increasingly important issue that companies have to address as they continue to develop new platforms and mobile apps. Looking back in years past, hackers were able to steal credit card and personal information from major retailers like Home Depot and Target.</p><img src="https://i2.wp.com/247wallst.files.wordpress.com/2015/10/thinkstockphotos-527168125.jpg?fit=440%2C330"></article>]]></description>
+            <description><![CDATA[<article><h1>What 2016 Has in Store for Cybersecurity Firms</h1><p>Cybersecurity has become an increasingly important issue that companies have to address as they continue to develop new platforms and mobile apps. Looking back in years past, hackers were able to steal credit card and personal information from major retailers like Home Depot and Target.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2830dd507fb09ad19b43b768feed6b88222ad0d7.jpg"></article>]]></description>
             <link>http://247wallst.com/technology-3/2015/12/09/what-2016-has-in-store-for-cybersecurity-firms/?</link>
             <guid isPermaLink="false">eb4d6345-cccd-46fc-9f0e-259f3ed7a84d</guid>
             <pubDate>Thu, 10 Dec 2015 17:28:27 GMT</pubDate>
@@ -54,13 +47,6 @@
             <link>https://securityintelligence.com/eight-crazy-hacks-the-worst-and-weirdest-data-breaches-of-2015/#.VmjVObLPUbs.linkedin</link>
             <guid isPermaLink="false">387e7e7d-81b2-483e-ab28-cf7117f541c3</guid>
             <pubDate>Thu, 10 Dec 2015 17:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/omerta-information-security/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">544b6d0d-f4f4-4fc0-bb1a-ed183db4fa18</guid>
-            <pubDate>Thu, 10 Dec 2015 16:55:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
