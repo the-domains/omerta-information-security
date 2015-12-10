@@ -4,7 +4,7 @@
         <description><![CDATA[All about Infosec from Rotterdam, The Netherlands]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 17:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 17:27:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/omerta-information-security/3a99b418-d834-4b01-a9ba-04fa78ea6dfb/index.html</link>
             <guid isPermaLink="false">3a99b418-d834-4b01-a9ba-04fa78ea6dfb</guid>
             <pubDate>Thu, 10 Dec 2015 17:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google has quietly launched an Akamai competitor]]></title>
+            <description><![CDATA[<article><h1>Google has quietly launched an Akamai competitor</h1><p>Google has quietly started offering Google Cloud CDN service, a new content-delivery network (CDN) that should appeal to independent developers who want their applications to load quickly. In the "alpha" release, Google is now accepting applications from people who want to try the new service, which is limited in geographical availability for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d71d015a32f08b9854e487e63fc6426931640870.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2015/12/09/google-cloud-cdn/?</link>
+            <guid isPermaLink="false">b656faa4-80a9-47ea-a022-ea88e923dba8</guid>
+            <pubDate>Thu, 10 Dec 2015 17:26:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bugsec]]></title>
