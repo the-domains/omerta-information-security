@@ -1,6 +1,6 @@
 name: Omerta Information Security
 favicon: null
-layout_spectrum: 0.3377
+layout_spectrum: 0.99996
 typography_spectrum: 0.9977222031448036
 title: 'All about Infosec from Rotterdam, The Netherlands'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#555555'
     - '#dbd5c5'
   brandStrength: 0.25
-  lightness: 0.4375
-  saturation: 0.75
-  rhythmicContrast: 0.8052211916074157
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
