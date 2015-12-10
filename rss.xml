@@ -4,7 +4,7 @@
         <description><![CDATA[All about Infosec from Rotterdam, The Netherlands]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 17:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 17:27:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/omerta-information-security/3a99b418-d834-4b01-a9ba-04fa78ea6dfb/index.html</link>
             <guid isPermaLink="false">3a99b418-d834-4b01-a9ba-04fa78ea6dfb</guid>
             <pubDate>Thu, 10 Dec 2015 17:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bugsec]]></title>
+            <description><![CDATA[<article><h1>Bugsec</h1><p>BugSec Group and Cynet discovered a severe vulnerability in Next Generation Firewalls. Head of Offensive Security Stas Volfus uncovered the vulnerability, code-named FireStorm, which allows an internal entity or malicious code to interact and extract data out of the organization, completely bypassing the firewall limitation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db74baed921f735212b73f1c2c74afee0ced8a3c.png"></article>]]></description>
+            <link>http://www.bugsec.com/news/firestorm/</link>
+            <guid isPermaLink="false">874198e3-ba2b-476f-8f99-bf403c9ce3fa</guid>
+            <pubDate>Thu, 10 Dec 2015 17:26:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Europese Berichtgeving Eerste Kamer - E120003 - Voorstel voor een verordening betreffende de bescherming van individuen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens]]></title>
