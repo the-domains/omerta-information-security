@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theregister.co.uk/2015/12/15/borg_security_boffins_open_tweakable_vuln_plug/'
 title: Cisco spewing vulns
-datePublished: '2015-12-17T17:55:05.085Z'
-dateModified: '2015-12-17T17:54:51.932Z'
+datePublished: '2015-12-17T17:55:19.189Z'
+dateModified: '2015-12-17T17:55:05.085Z'
 sourcePath: _posts/2015-12-17-cisco-spewing-vulns.md
 published: true
 inFeed: true
