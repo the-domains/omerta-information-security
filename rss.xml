@@ -4,7 +4,7 @@
         <description><![CDATA[All about Infosec from Omerta.nl  ]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 17:56:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 17:56:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Joe Coin]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Learning About computer security</h1><p>How People Learn about Computer Security http://flip.it/Y8NwS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e02169be98a3fdf96124d173c24b2309d92d35cb.jpg"></article>]]></description>
             <link>http://flip.it/Y8NwS</link>
             <guid isPermaLink="false">e26071be-0307-465d-bce9-ce11100e1075</guid>
-            <pubDate>Thu, 17 Dec 2015 17:55:19 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 17:55:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cisco spewing vulns]]></title>
@@ -39,7 +39,7 @@
             <description><![CDATA[<article><h1>Google has quietly launched an Akamai competitor</h1><p>Google has quietly started offering Google Cloud CDN service, a new content-delivery network (CDN) that should appeal to independent developers who want their applications to load quickly. In the "alpha" release, Google is now accepting applications from people who want to try the new service, which is limited in geographical availability for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d13a75a3a7ec26a60ecad8972b905677edd9366.jpg"></article>]]></description>
             <link>http://venturebeat.com/2015/12/09/google-cloud-cdn/?</link>
             <guid isPermaLink="false">b656faa4-80a9-47ea-a022-ea88e923dba8</guid>
-            <pubDate>Thu, 17 Dec 2015 17:55:19 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 17:55:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bugsec]]></title>
