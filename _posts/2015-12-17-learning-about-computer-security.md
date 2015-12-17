@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://flip.it/Y8NwS'
 title: Learning About computer security
-datePublished: '2015-12-17T17:55:05.188Z'
-dateModified: '2015-12-17T17:54:52.274Z'
+datePublished: '2015-12-17T17:55:19.378Z'
+dateModified: '2015-12-17T17:55:05.188Z'
 sourcePath: _posts/2015-12-17-learning-about-computer-security.md
 published: true
 inFeed: true
