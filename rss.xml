@@ -4,7 +4,7 @@
         <description><![CDATA[All about Infosec from Omerta.nl  ]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 17:55:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 17:55:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Learning About computer security]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Cisco spewing vulns</h1><p>Security folk will be able to suck down Cisco vulnerabilities notices in more ways than ever thanks to a new application programming interface launched today. The Cisco security team's (PSIRT) openvuln plug is a RESTful API supporting standards like Common Vulnerability Reporting Framework (CVRF), Open Vulnerability and Assessment Language (OVAL), Common Vulnerability and Exposure (CVE) identifiers, and the Common Vulnerability Scoring System (CVSS).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/695d3c3b5f69e54930b4a44966ffc010ef9a3244.jpg"></article>]]></description>
             <link>http://www.theregister.co.uk/2015/12/15/borg_security_boffins_open_tweakable_vuln_plug/</link>
             <guid isPermaLink="false">7e940a85-8f03-4410-98ee-249e72d70e5e</guid>
-            <pubDate>Thu, 17 Dec 2015 17:55:05 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 17:55:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What 2016 Has in Store for Cybersecurity Firms]]></title>
