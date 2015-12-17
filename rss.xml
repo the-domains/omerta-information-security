@@ -4,15 +4,8 @@
         <description><![CDATA[All about Infosec from Omerta.nl  ]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 17:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 17:55:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Learning About computer security]]></title>
-            <description><![CDATA[<article><h1>Learning About computer security</h1><p>How People Learn about Computer Security http://flip.it/Y8NwS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e02169be98a3fdf96124d173c24b2309d92d35cb.jpg"></article>]]></description>
-            <link>http://flip.it/Y8NwS</link>
-            <guid isPermaLink="false">e26071be-0307-465d-bce9-ce11100e1075</guid>
-            <pubDate>Thu, 17 Dec 2015 17:54:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cisco spewing vulns]]></title>
             <description><![CDATA[<article><h1>Cisco spewing vulns</h1><p>Security folk will be able to suck down Cisco vulnerabilities notices in more ways than ever thanks to a new application programming interface launched today. The Cisco security team's (PSIRT) openvuln plug is a RESTful API supporting standards like Common Vulnerability Reporting Framework (CVRF), Open Vulnerability and Assessment Language (OVAL), Common Vulnerability and Exposure (CVE) identifiers, and the Common Vulnerability Scoring System (CVSS).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/695d3c3b5f69e54930b4a44966ffc010ef9a3244.jpg"></article>]]></description>
