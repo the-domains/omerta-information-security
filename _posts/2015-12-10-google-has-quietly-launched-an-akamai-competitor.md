@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://venturebeat.com/2015/12/09/google-cloud-cdn/?'
 title: Google has quietly launched an Akamai competitor
-datePublished: '2015-12-17T17:55:05.374Z'
-dateModified: '2015-12-10T17:26:31.817Z'
+datePublished: '2015-12-17T17:55:19.583Z'
+dateModified: '2015-12-17T17:55:05.374Z'
 sourcePath: _posts/2015-12-10-google-has-quietly-launched-an-akamai-competitor.md
 published: true
 inFeed: true
