@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[All about Infosec from Rotterdam, The Netherlands]]></title>
-        <description><![CDATA[All about Infosec from Rotterdam, The Netherlands]]></description>
+        <title><![CDATA[All about Infosec from Omerta.nl  ]]></title>
+        <description><![CDATA[All about Infosec from Omerta.nl  ]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 17:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 17:54:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://tweakers.net/nieuws/106743/cbp-publiceert-definitieve-beleidsregels-meldplicht-datalekken.html</p>]]></description>
-            <link>https://thegrid.ai/omerta-information-security/3a99b418-d834-4b01-a9ba-04fa78ea6dfb/index.html</link>
-            <guid isPermaLink="false">3a99b418-d834-4b01-a9ba-04fa78ea6dfb</guid>
-            <pubDate>Thu, 10 Dec 2015 17:23:25 GMT</pubDate>
+            <title><![CDATA[Cisco spewing vulns]]></title>
+            <description><![CDATA[<article><h1>Cisco spewing vulns</h1><p>Security folk will be able to suck down Cisco vulnerabilities notices in more ways than ever thanks to a new application programming interface launched today. The Cisco security team's (PSIRT) openvuln plug is a RESTful API supporting standards like Common Vulnerability Reporting Framework (CVRF), Open Vulnerability and Assessment Language (OVAL), Common Vulnerability and Exposure (CVE) identifiers, and the Common Vulnerability Scoring System (CVSS).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/695d3c3b5f69e54930b4a44966ffc010ef9a3244.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2015/12/15/borg_security_boffins_open_tweakable_vuln_plug/</link>
+            <guid isPermaLink="false">7e940a85-8f03-4410-98ee-249e72d70e5e</guid>
+            <pubDate>Thu, 17 Dec 2015 17:54:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What 2016 Has in Store for Cybersecurity Firms]]></title>
-            <description><![CDATA[<article><h1>What 2016 Has in Store for Cybersecurity Firms</h1><p>Cybersecurity has become an increasingly important issue that companies have to address as they continue to develop new platforms and mobile apps. Looking back in years past, hackers were able to steal credit card and personal information from major retailers like Home Depot and Target.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2830dd507fb09ad19b43b768feed6b88222ad0d7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>What 2016 Has in Store for Cybersecurity Firms</h1><p>Cybersecurity has become an increasingly important issue that companies have to address as they continue to develop new platforms and mobile apps. Looking back in years past, hackers were able to steal credit card and personal information from major retailers like Home Depot and Target.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c68ef999179f8aeeb100d7316e93c15a6d6bfed0.jpg"></article>]]></description>
             <link>http://247wallst.com/technology-3/2015/12/09/what-2016-has-in-store-for-cybersecurity-firms/?</link>
             <guid isPermaLink="false">eb4d6345-cccd-46fc-9f0e-259f3ed7a84d</guid>
             <pubDate>Thu, 10 Dec 2015 17:28:27 GMT</pubDate>
@@ -40,13 +40,6 @@
             <link>https://www.eerstekamer.nl/eu/edossier/e120003_voorstel_voor_een#p1</link>
             <guid isPermaLink="false">4650be3d-1492-4a6d-ae17-69855d3674b5</guid>
             <pubDate>Thu, 10 Dec 2015 17:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBP publiceert definitieve beleidsregels meldplicht datalekken]]></title>
-            <description><![CDATA[<article><h1>CBP publiceert definitieve beleidsregels meldplicht datalekken</h1><p>Het CBP heeft de definitieve beleidsregels voor de meldplicht datalekken gepubliceerd. Aan de hand van deze regels kunnen organisaties vaststellen of er sprake is van een datalek en aan wie zij dit moeten melden. De meldplicht voor organisaties gaat in op 1 januari 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dce3661ffca31412cb980a8ae40f781e72c4b1a.png"></article>]]></description>
-            <link>http://tweakers.net/nieuws/106743/cbp-publiceert-definitieve-beleidsregels-meldplicht-datalekken.html</link>
-            <guid isPermaLink="false">0ad93c22-4411-454c-a4a5-257a5aebed24</guid>
-            <pubDate>Thu, 10 Dec 2015 17:22:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eight Crazy Hacks: The Worst and Weirdest Data Breaches of 2015]]></title>
