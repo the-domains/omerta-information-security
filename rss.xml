@@ -4,8 +4,15 @@
         <description><![CDATA[All about Infosec from Omerta.nl  ]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 17:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 08:20:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Facebook warns For expering browser algorithm]]></title>
+            <description><![CDATA[<article><h1>Facebook warns For expering browser algorithm</h1><p>An important Web security algorithm that is expiring could affect Internet use for those on older browers, Facebook warns. While the algorithm will be replaced for those who are using new browsers, people using older browsers, many of whom live in poorer countries, will be stuck without the soon-to-be unsupported system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc6625b38db9ee6331ac58aff70902309fe9f122.jpg"></article>]]></description>
+            <link>https://thegrid.ai/omerta-information-security/facebook-warns-for-expering-browser-algorithm/index.html</link>
+            <guid isPermaLink="false">1b2c5f95-629a-4eb1-9fd4-d54b718ba808</guid>
+            <pubDate>Sat, 19 Dec 2015 08:20:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Joe Coin]]></title>
             <description><![CDATA[<article><h1>Joe Coin</h1><p>Joe Coin: Crypto 2.0--And Other Misconceptions</p></article>]]></description>
@@ -18,7 +25,7 @@
             <description><![CDATA[<article><h1>Learning About computer security</h1><p>How People Learn about Computer Security http://flip.it/Y8NwS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e02169be98a3fdf96124d173c24b2309d92d35cb.jpg"></article>]]></description>
             <link>http://flip.it/Y8NwS</link>
             <guid isPermaLink="false">e26071be-0307-465d-bce9-ce11100e1075</guid>
-            <pubDate>Thu, 17 Dec 2015 17:55:05 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 17:55:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cisco spewing vulns]]></title>
@@ -36,10 +43,10 @@
         </item>
         <item>
             <title><![CDATA[Google has quietly launched an Akamai competitor]]></title>
-            <description><![CDATA[<article><h1>Google has quietly launched an Akamai competitor</h1><p>Google has quietly started offering Google Cloud CDN service, a new content-delivery network (CDN) that should appeal to independent developers who want their applications to load quickly. In the "alpha" release, Google is now accepting applications from people who want to try the new service, which is limited in geographical availability for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d13a75a3a7ec26a60ecad8972b905677edd9366.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Google has quietly launched an Akamai competitor</h1><p>Google has quietly started offering Google Cloud CDN service, a new content-delivery network (CDN) that should appeal to independent developers who want their applications to load quickly. In the "alpha" release, Google is now accepting applications from people who want to try the new service, which is limited in geographical availability for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72f684c5fe109c9dfc635c67d0a64d4bd9b8da5c.jpg"></article>]]></description>
             <link>http://venturebeat.com/2015/12/09/google-cloud-cdn/?</link>
             <guid isPermaLink="false">b656faa4-80a9-47ea-a022-ea88e923dba8</guid>
-            <pubDate>Thu, 17 Dec 2015 17:55:05 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 17:55:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bugsec]]></title>
