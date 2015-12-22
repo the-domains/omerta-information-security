@@ -4,8 +4,15 @@
         <description><![CDATA[All about Infosec from Omerta.nl  ]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 08:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 17:41:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cisco spewing vulns]]></title>
+            <description><![CDATA[<article><h1>Cisco spewing vulns</h1><p>Joe Coin: Crypto 2.0--And Other Misconceptions</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/695d3c3b5f69e54930b4a44966ffc010ef9a3244.jpg"></article>]]></description>
+            <link>https://thegrid.ai/omerta-information-security/cisco-spewing-vulns/index.html</link>
+            <guid isPermaLink="false">2b89f364-f375-492e-a678-0b6edcd75e28</guid>
+            <pubDate>Tue, 22 Dec 2015 17:40:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook warns For expering browser algorithm]]></title>
             <description><![CDATA[<article><h1>Facebook warns For expering browser algorithm</h1><p>An important Web security algorithm that is expiring could affect Internet use for those on older browers, Facebook warns. While the algorithm will be replaced for those who are using new browsers, people using older browsers, many of whom live in poorer countries, will be stuck without the soon-to-be unsupported system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc6625b38db9ee6331ac58aff70902309fe9f122.jpg"></article>]]></description>
