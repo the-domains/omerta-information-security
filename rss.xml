@@ -4,8 +4,15 @@
         <description><![CDATA[All about Infosec from Omerta.nl  ]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 17:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 06:34:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Banken moeten oppassen op digitale fraude van DNB]]></title>
+            <description><![CDATA[<article><h1>Banken moeten oppassen op digitale fraude van DNB</h1><p>DNB stelt dat criminelen in de VS gestolen identiteits- en kaartgegevens via de smartphone aan het betaalsysteem van Apple, Samsung of Google kunnen koppelen. Dit komt volgens de toezichthouder doordat banken daar vaak genoegen nemen met de verstrekking van een beperkt aantal persoonsgegevens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53bb5d5379483cdd1ba11514813d5c66d4f942f4.jpg"></article>]]></description>
+            <link>http://www.nu.nl/geldzaken/4185157/dnb-wijst-banken-risicos-mobiel-betalen.html</link>
+            <guid isPermaLink="false">63f291f5-f502-4552-9cbc-01125cebb9b3</guid>
+            <pubDate>Sun, 27 Dec 2015 06:34:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cisco spewing vulns]]></title>
             <description><![CDATA[<article><h1>Cisco spewing vulns</h1><p>Joe Coin: Crypto 2.0--And Other Misconceptions</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/695d3c3b5f69e54930b4a44966ffc010ef9a3244.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.eerstekamer.nl/eu/edossier/e120003_voorstel_voor_een#p1</link>
             <guid isPermaLink="false">4650be3d-1492-4a6d-ae17-69855d3674b5</guid>
             <pubDate>Thu, 10 Dec 2015 17:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eight Crazy Hacks: The Worst and Weirdest Data Breaches of 2015]]></title>
-            <description><![CDATA[<article><h1>Eight Crazy Hacks: The Worst and Weirdest Data Breaches of 2015</h1><p>2015 was a banner year for cybercriminals. And with less than a month left before the calendar rolls over, it's worth taking a look back at the biggest, craziest and downright strangest hacks and data breaches of the last 11 months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7594fcd6d234291f2cda4f04a2d830708c799e40.jpg"></article>]]></description>
-            <link>https://securityintelligence.com/eight-crazy-hacks-the-worst-and-weirdest-data-breaches-of-2015/#.VmjVObLPUbs.linkedin</link>
-            <guid isPermaLink="false">387e7e7d-81b2-483e-ab28-cf7117f541c3</guid>
-            <pubDate>Thu, 10 Dec 2015 17:22:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
