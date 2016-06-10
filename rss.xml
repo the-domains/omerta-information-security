@@ -4,8 +4,15 @@
         <description><![CDATA[All about Infosec from Omerta.nl  ]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 06:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 09:25:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Must Read!]]></title>
+            <description><![CDATA[<article><h1>Must Read!</h1><p>Imagine you're moving apartments and shopping for new furniture at a couple of stores. You see a couch you like, but you're not sure, so you leave thinking maybe you'll return another day. But that couch doesn't take well to rejection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09bb2be8685304f0e85681f34c8259d0b419d716.jpg"></article>]]></description>
+            <link>http://www.fastcoexist.com/3057514/your-data-footprint-is-affecting-your-life-in-ways-you-cant-even-imagine</link>
+            <guid isPermaLink="false">269d6219-89ae-4487-8c2f-b3a8666d2460</guid>
+            <pubDate>Fri, 10 Jun 2016 09:25:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Banken moeten oppassen op digitale fraude van DNB]]></title>
             <description><![CDATA[<article><h1>Banken moeten oppassen op digitale fraude van DNB</h1><p>DNB stelt dat criminelen in de VS gestolen identiteits- en kaartgegevens via de smartphone aan het betaalsysteem van Apple, Samsung of Google kunnen koppelen. Dit komt volgens de toezichthouder doordat banken daar vaak genoegen nemen met de verstrekking van een beperkt aantal persoonsgegevens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53bb5d5379483cdd1ba11514813d5c66d4f942f4.jpg"></article>]]></description>
@@ -22,16 +29,16 @@
         </item>
         <item>
             <title><![CDATA[Facebook warns For expering browser algorithm]]></title>
-            <description><![CDATA[<article><h1>Facebook warns For expering browser algorithm</h1><p>An important Web security algorithm that is expiring could affect Internet use for those on older browers, Facebook warns. While the algorithm will be replaced for those who are using new browsers, people using older browsers, many of whom live in poorer countries, will be stuck without the soon-to-be unsupported system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc6625b38db9ee6331ac58aff70902309fe9f122.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Facebook warns For expering browser algorithm</h1><p>An important Web security algorithm that is expiring could affect Internet use for those on older browers, Facebook warns. While the algorithm will be replaced for those who are using new browsers, people using older browsers, many of whom live in poorer countries, will be stuck without the soon-to-be unsupported system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/845477d97c6874861632328151f776bdae1f01ec.jpg"></article>]]></description>
             <link>https://thegrid.ai/omerta-information-security/facebook-warns-for-expering-browser-algorithm/index.html</link>
             <guid isPermaLink="false">1b2c5f95-629a-4eb1-9fd4-d54b718ba808</guid>
             <pubDate>Sat, 19 Dec 2015 08:20:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Joe Coin]]></title>
-            <description><![CDATA[<article><h1>Joe Coin</h1><p>Joe Coin: Crypto 2.0--And Other Misconceptions</p></article>]]></description>
-            <link>http://www.joecoin.com/2015/02/crypto-20-and-other-misconceptions.html</link>
-            <guid isPermaLink="false">2309298d-a822-415b-ae98-64f0bcc3dfb0</guid>
+            <title><![CDATA[Google has quietly launched an Akamai competitor]]></title>
+            <description><![CDATA[<article><h1>Google has quietly launched an Akamai competitor</h1><p>Google has quietly started offering Google Cloud CDN service, a new content-delivery network (CDN) that should appeal to independent developers who want their applications to load quickly. In the "alpha" release, Google is now accepting applications from people who want to try the new service, which is limited in geographical availability for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72f684c5fe109c9dfc635c67d0a64d4bd9b8da5c.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2015/12/09/google-cloud-cdn/?</link>
+            <guid isPermaLink="false">b656faa4-80a9-47ea-a022-ea88e923dba8</guid>
             <pubDate>Thu, 17 Dec 2015 17:55:19 GMT</pubDate>
         </item>
         <item>
@@ -39,6 +46,13 @@
             <description><![CDATA[<article><h1>Learning About computer security</h1><p>How People Learn about Computer Security http://flip.it/Y8NwS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e02169be98a3fdf96124d173c24b2309d92d35cb.jpg"></article>]]></description>
             <link>http://flip.it/Y8NwS</link>
             <guid isPermaLink="false">e26071be-0307-465d-bce9-ce11100e1075</guid>
+            <pubDate>Thu, 17 Dec 2015 17:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Coin]]></title>
+            <description><![CDATA[<article><h1>Joe Coin</h1><p>Joe Coin: Crypto 2.0--And Other Misconceptions</p></article>]]></description>
+            <link>http://www.joecoin.com/2015/02/crypto-20-and-other-misconceptions.html</link>
+            <guid isPermaLink="false">2309298d-a822-415b-ae98-64f0bcc3dfb0</guid>
             <pubDate>Thu, 17 Dec 2015 17:55:19 GMT</pubDate>
         </item>
         <item>
@@ -56,25 +70,11 @@
             <pubDate>Thu, 10 Dec 2015 17:28:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google has quietly launched an Akamai competitor]]></title>
-            <description><![CDATA[<article><h1>Google has quietly launched an Akamai competitor</h1><p>Google has quietly started offering Google Cloud CDN service, a new content-delivery network (CDN) that should appeal to independent developers who want their applications to load quickly. In the "alpha" release, Google is now accepting applications from people who want to try the new service, which is limited in geographical availability for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72f684c5fe109c9dfc635c67d0a64d4bd9b8da5c.jpg"></article>]]></description>
-            <link>http://venturebeat.com/2015/12/09/google-cloud-cdn/?</link>
-            <guid isPermaLink="false">b656faa4-80a9-47ea-a022-ea88e923dba8</guid>
-            <pubDate>Thu, 17 Dec 2015 17:55:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bugsec]]></title>
             <description><![CDATA[<article><h1>Bugsec</h1><p>BugSec Group and Cynet discovered a severe vulnerability in Next Generation Firewalls. Head of Offensive Security Stas Volfus uncovered the vulnerability, code-named FireStorm, which allows an internal entity or malicious code to interact and extract data out of the organization, completely bypassing the firewall limitation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/849f5a46384e1277ef12e65a0f50d6a406b0735a.png"></article>]]></description>
             <link>http://www.bugsec.com/news/firestorm/</link>
             <guid isPermaLink="false">874198e3-ba2b-476f-8f99-bf403c9ce3fa</guid>
             <pubDate>Thu, 10 Dec 2015 17:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europese Berichtgeving Eerste Kamer - E120003 - Voorstel voor een verordening betreffende de bescherming van individuen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens]]></title>
-            <description><![CDATA[<article><h1>Europese Berichtgeving Eerste Kamer - E120003 - Voorstel voor een verordening betreffende de bescherming van individuen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens</h1><p>De Europese Commissie stelt een nieuw regelgevend kader voor dat bestaat uit een algemene verordening bescherming persoonsgegevens en een richtlijn die betrekking heeft op de bescherming van persoonsgegevens die worden verwerkt in het kader van politiële en justitiële activiteiten.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f6f693867da48e5e76d239442a31890152c7e4f.png"></article>]]></description>
-            <link>https://www.eerstekamer.nl/eu/edossier/e120003_voorstel_voor_een#p1</link>
-            <guid isPermaLink="false">4650be3d-1492-4a6d-ae17-69855d3674b5</guid>
-            <pubDate>Thu, 10 Dec 2015 17:22:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
