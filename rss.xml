@@ -4,8 +4,15 @@
         <description><![CDATA[All about Infosec from Omerta.nl  ]]></description>
         <link>https://thegrid.ai/omerta-information-security/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 09:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 09:26:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omerta-information-security/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[General relativity caught in action around black hole]]></title>
+            <description><![CDATA[<article><h1>General relativity caught in action around black hole</h1><p>General relativity caught in action around black hole http://flip.it/i9l34</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f34eef329f856aa4543d52c9a3fb62799d995568.jpg"></article>]]></description>
+            <link>https://thegrid.ai/omerta-information-security/general-relativity-caught-in-action-around-black-hole-http/index.html</link>
+            <guid isPermaLink="false">2c697cab-116e-45d3-8fe3-6073d389e399</guid>
+            <pubDate>Fri, 10 Jun 2016 09:25:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Must Read!]]></title>
             <description><![CDATA[<article><h1>Must Read!</h1><p>Imagine you're moving apartments and shopping for new furniture at a couple of stores. You see a couch you like, but you're not sure, so you leave thinking maybe you'll return another day. But that couch doesn't take well to rejection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09bb2be8685304f0e85681f34c8259d0b419d716.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://247wallst.com/technology-3/2015/12/09/what-2016-has-in-store-for-cybersecurity-firms/?</link>
             <guid isPermaLink="false">eb4d6345-cccd-46fc-9f0e-259f3ed7a84d</guid>
             <pubDate>Thu, 10 Dec 2015 17:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bugsec]]></title>
-            <description><![CDATA[<article><h1>Bugsec</h1><p>BugSec Group and Cynet discovered a severe vulnerability in Next Generation Firewalls. Head of Offensive Security Stas Volfus uncovered the vulnerability, code-named FireStorm, which allows an internal entity or malicious code to interact and extract data out of the organization, completely bypassing the firewall limitation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/849f5a46384e1277ef12e65a0f50d6a406b0735a.png"></article>]]></description>
-            <link>http://www.bugsec.com/news/firestorm/</link>
-            <guid isPermaLink="false">874198e3-ba2b-476f-8f99-bf403c9ce3fa</guid>
-            <pubDate>Thu, 10 Dec 2015 17:26:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
